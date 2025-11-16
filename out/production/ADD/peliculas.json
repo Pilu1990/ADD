@@ -1,0 +1,21 @@
+{
+    "peliculas": [
+        {
+            "director": "Francis Ford Coppola",
+            "titulo": "El Padrino",
+            "anio": 1972
+        },
+        {
+            "director": "Quentin Tarantino",
+            "titulo": "Pulp Fiction",
+            "anio": 1994
+        },
+        {
+            "director": "Peter Jackson",
+            "titulo": "El Señor de los Anillos",
+            "anio": 2001
+        }
+    ],
+    "catalogo": "Mis Películas",
+    "version": "1.0"
+}
